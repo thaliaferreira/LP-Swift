@@ -1,3 +1,5 @@
+import Foundation
+
 let testCases: Int? = Int(readLine()!)
 
 var myString: String?, finalString: String = String()
